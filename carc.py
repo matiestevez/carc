@@ -1,1 +1,1 @@
-print("de rosario y de central")
+print("de rosario y de centra")
