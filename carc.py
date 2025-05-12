@@ -1,0 +1,1 @@
+print("de rosario y de central")
